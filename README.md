@@ -1,3 +1,1 @@
-MY LANDING PAGE
-**
-AUTHOR: MINH KHANG LE
+##React project using react hooks
